@@ -19,3 +19,6 @@ require('PlugConf/nvim-autopairs')
 require('PlugConf/telescope')
 require('PlugConf/nvim-treesitter')
 require('PlugConf/bufferline')
+
+require('PlugConf/nvim-comments')
+require('PlugConf/colorizer')

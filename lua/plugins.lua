@@ -22,6 +22,9 @@ return require('packer').startup(function()
   --use'kyazdani42/nvim-tree.lua'
   --use 'glepnir/dashboard-nvim'
   use 'startup-nvim/startup.nvim'
+  use "terrortylor/nvim-comment"
+
+  use 'norcalli/nvim-colorizer.lua'
 
   -- Telescope
   use 'nvim-telescope/telescope.nvim'
